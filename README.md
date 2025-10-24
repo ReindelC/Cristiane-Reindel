@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ReindelC/ReindelC/assets/banner-inverno-escuro.png" alt="Banner — Cristiane Reindel" width="100%" />
-</p>
-
 # 👋 Oi, eu sou a Cristiane Reindel
 
 💼 **Economista e Administradora** com **mestrado em Administração**
